@@ -1,2 +1,0 @@
-# hopza
-HopzaBot!
