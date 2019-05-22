@@ -1,0 +1,18 @@
+{
+  "name": "WaggishBot",
+  "version": "1.0.0",
+  "description": "Multiuse Bot for everyone",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "google": "^2.1.0",
+    "ms": "^2.1.1",
+    "twitch-irc": "^1.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BillyHorler",
+  "license": "ISC"
+}
